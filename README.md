@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rush2912
-- 👀 I’m interested in coding and building stuff
+- 👀 I’m interested in coding and designing things
 - 🌱 I’m currently pursuing mechanical engineering in NITK Surathkal, India
 
 
