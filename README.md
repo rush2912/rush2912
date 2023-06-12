@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rush2912
-- 👀 I’m still figuring out what I'm interested in
-- 🌱 I’m currently pursuing mechanical engineering in NITK Surathkal, India
+- 👋 Hi, I’m @rush2912 from Bangalore, India
+- 👀 I’m interested in machine learning and business analysis
+- 🌱 I’m an undergrad at NITK Surathkal majoring in mechanical engineering
+- 🤝 Hit me up if you wanna collab on some cool projects!
 
 
 <!---
